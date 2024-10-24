@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN, MEVN full stack projects.**
 
-- 💬 Ask me about **react, vue , express, node**
+- 💬 Ask me about : **react, vue , express, node**
 
 - 📫 How to reach me : **patelasad49@gmail.com**
 
