@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Asad Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad2050&label=Profile%20views&color=0e75b6&style=flat" alt="asad2050" /> </p>
 
-- 🌱 I’m currently learning **to build react projects and problem solving, DSA in C++.**
+ - 🌱 I’m currently learning **to build react projects and problem solving, DSA in C++.**
 
-- 👯 I’m looking to collaborate on **MERN, MEVN full stack projects.**
+ - 👯 I’m looking to collaborate on **MERN, MEVN full stack projects.**
 
-- 💬 Ask me about : **react, vue , express, node**
+ - 💬 Ask me about : **react, vue , express, node**
 
-- 📫 How to reach me : **patelasad49@gmail.com**
+ - 📫 How to reach me : **patelasad49@gmail.com**
+
+ - ⚡ Fun fact **When I was 13, I rooted my Samsung Galaxy Star to enhance its performance. Finding no significant improvement, I decided to reinstall the native ROM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
