@@ -9,7 +9,7 @@
 
  - 📫 How to reach me : **patelasad49@gmail.com**
 
- - ⚡ Fun fact **When I was 13, I rooted my Samsung Galaxy Star to enhance its performance. Finding no significant improvement, I decided to reinstall the native ROM.**
+ - ⚡ Fun fact : **When I was 13, I rooted my Samsung Galaxy Star to enhance its performance. Finding no significant improvement, I decided to reinstall the native ROM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
